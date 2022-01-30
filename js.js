@@ -104,7 +104,7 @@ function myFunction() {
 
 function swapImageWithVideo(){
 
-  console.log('selamu dawit selemon');
+
 
     let videoParent = document.getElementById("myvideo");
     let  imageParent= document.getElementById('myimage');
